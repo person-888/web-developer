@@ -147,3 +147,29 @@ footer input[type="text"],footer input[type="email"], footer textarea{
     margin-bottom: 24px;
     border: 0px;
 }
+/*resume style*/
+.resume-container{
+display: flex;
+gap: 24px;
+}
+.resume-column-title{
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black
+}
+.experience-description,.experience-sub-title{
+  font-size: 16px;  
+
+  color: #474747;
+}
+.experience-sub-title{
+    font-size: 20px ;
+    font-weight: bold;
+}
+.resume-column-title-h3{
+font-size: 30px;
+}
+.resume hr{
+    margin: 20px auto;
+}
